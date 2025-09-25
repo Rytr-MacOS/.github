@@ -93,7 +93,7 @@ A: Absolutely, projects and drafts can be shared for collaborative editing.
 
 ## 🖼 Preview  
 
-![Rytr Dashboard](https://rytr.me/wp-content/uploads/2024/03/Homepage-GIF-V1.gif)  
+![Rytr Dashboard](https://webthat.io/wp-content/uploads/2023/03/1-5-1140x694.png)  
 
 ---
 
